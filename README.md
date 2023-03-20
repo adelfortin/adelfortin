@@ -52,7 +52,7 @@
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
+          <a href="https://github.com/adelfortin">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelfortin&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
           </a>
         </div>
