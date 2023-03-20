@@ -74,6 +74,6 @@
 
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=adelfortinlabel=Profile+Views)
+![](https://komarev.com/ghpvc/?username=adelfortin&label=Profile+Views)
 
 </div>
