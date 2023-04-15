@@ -1,79 +1,25 @@
 <img src="./banner.jpg" alt="name banner" />
 
-### About Me
+### À propos de moi
 
-### Languages, Tools, and Skills 🛠
+### Langages, Outils et Compétences 🛠
 <div align="center">
-<img src="https://img.shields.io/badge/LaTex-61DAFB?style=for-the-badge&logo=latex&logoColor=white" alt="LaTex" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
-<img src="https://img.shields.io/badge/testing%20library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="testinglibrary" />
-<img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
-<img src="https://img.shields.io/badge/enzyme-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="enzyme" />
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
-<img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white" alt="rails" />
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="datagrip" />
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" />
-<img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-<img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-<img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
-<img src="https://img.shields.io/badge/semantic%20ui-35BDB2?style=for-the-badge&logo=semantic%20ui%20react&logoColor=white" alt="semantic ui" />
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
-<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-<img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-<img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
-</div>
-
-### GitHub Stats 📈
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/adelfortin">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelfortin&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/adelfortin">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adelfortin?cardType=github&theme=github" alt="Adel's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=adelfortin&show_icons=true&hide=stars&hide_border=true" alt="Adel's GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
----
-
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=adelfortin&label=Profile+Views)
-
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Checkmk-7DB438?style=for-the-badge&logo=checkmk&logoColor=white" alt="Checkmk" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Haproxy-019C9E?style=for-the-badge&logo=haproxy&logoColor=white" alt="Haproxy" />
+<img src="https://img.shields.io/badge/RAID%20Technologies-A6192E?style=for-the-badge&logo=redhat&logoColor=white" alt="RAID Technologies" />
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTex" />
 </div>
