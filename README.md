@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/RAID%20Technologies-A6192E?style=for-the-badge&logo=redhat&logoColor=white" alt="RAID Technologies" />
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTex" />
 <img src ="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt=Proxmox />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt=Neovim />
 </div>
 
 ### Statistiques GitHub 📈
