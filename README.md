@@ -25,17 +25,17 @@
 <img src="https://img.shields.io/badge/Checkmk-7DB438?style=for-the-badge&logo=checkmk&logoColor=white" alt="Checkmk" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 <img src="https://img.shields.io/badge/Haproxy-019C9E?style=for-the-badge&logo=haproxy&logoColor=white" alt="Haproxy" />
-<img src="https://img.shields.io/badge/RAID%20Technologies-A6192E?style=for-the-badge&logo=redhat&logoColor=white" alt="RAID Technologies" />
+<img src="https://img.shields.io/badge/RED%20HAT%20Technologies-A6192E?style=for-the-badge&logo=redhat&logoColor=white" alt="RED HAT Technologies" />
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTex" />
 <img src ="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt=Proxmox />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt=Neovim />
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt=Tmux />
-<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=fff&style=flat-square)
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=fff&style=flat-square)
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=fff&style=flat-square)
-<img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=fff&style=flat-square)
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=fff&style=flat-square)
-<img src="https://img.shields.io/badge/Ansible-E00?style=for-the-badge&logo=ansible&logoColor=fff&style=flat-square)
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt=Openstack />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt=Grafana />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt=Prometheus />
+<img src="https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white" alt=Nginx />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt=Apache />
+<img src="https://img.shields.io/badge/Ansible-E00?style=for-the-badge&logo=ansible&logoColor=white" alt=Ansible />
 </div>
 
 ### Statistiques GitHub 📈
